@@ -22,6 +22,7 @@ const localeLinks = {
   'en-ZW': 'en-US',
   'pt-BR': 'pt-BR',
   'pt-PT': 'pt-BR',
+  'sk-SK': 'sk-SK',
 };
 
 export default class TranslationProvider {
